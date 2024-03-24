@@ -8,9 +8,9 @@ Refer to `SurfsUp/climate_starter.ipynb`
 
 * Get the most recent date in the dataset
   * 2017-08-23
-* Get previous 12 months of precipitation data
+* Get previous 12 months of precipitation data  
   <img src="SurfsUp/Images/precip_12mth_prior_tbl.png" alt="Frequency of temperature (C) recorded for the past 12 months" width="150">
-* Plot date and precipitation for the past 12 months
+* Plot date and precipitation for the past 12 months  
   <img src="SurfsUp/Images/precip_past_12mth.png" alt="Precipitation (mm) for past 12 months" width="300">
 * Use Pandas to print the summary statistics for the precipitation data  
   <img src="SurfsUp/Images/precip_smy_stats.png" alt="Precipitation (mm) for past 12 months" width="180">
@@ -19,7 +19,7 @@ Refer to `SurfsUp/climate_starter.ipynb`
 * Find the most active station and get the min, max and average tempartures recorded
   * USC00519281
   * Min: 12.2, Max: 29.4, Mean: 22.03582251082252
-* Plot the frequency of temperatures recorded for the past 12 months
+* Plot the frequency of temperatures recorded for the past 12 months  
   <img src="SurfsUp/Images/freq_temp_recorded.png" alt="Frequency of temperature (C) recorded for the past 12 months" width="300">
 
 ### Part 2: Creating Climate App
@@ -33,7 +33,7 @@ Refer to `SurfsUp/app.py`
   <img src="SurfsUp/Images/app_precip_dict.png" alt="Frequency of temperature (C) recorded for the past 12 months" width="120">
 * For the most active station, Get JSON list of temperature observations for the previous year  
   <img src="SurfsUp/Images/app_active_station.png" alt="Frequency of temperature (C) recorded for the past 12 months" width="120">
-* Return a JSON list of the minimum temperature, the average temperature, and the maximum temperature for a specified start or start-end range
+* Return a JSON list of the minimum temperature, the average temperature, and the maximum temperature for a specified start or start-end range  
   <img src="SurfsUp/Images/app_startdate.png" alt="Frequency of temperature (C) recorded for the past 12 months" width="250">
   <img src="SurfsUp/Images/app_startdate_enddate.png" alt="Frequency of temperature (C) recorded for the past 12 months" width="250">
 
