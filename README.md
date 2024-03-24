@@ -34,13 +34,12 @@ Refer to `SurfsUp/app.py`
 * For the most active station, Get JSON list of temperature observations for the previous year  
   <img src="SurfsUp/Images/app_active_station.png" alt="Frequency of temperature (C) recorded for the past 12 months" width="120">
 * Return a JSON list of the minimum temperature, the average temperature, and the maximum temperature for a specified start or start-end range  
-  <img src="SurfsUp/Images/app_startdate.png" alt="Frequency of temperature (C) recorded for the past 12 months" width="250">
-  <img src="SurfsUp/Images/app_startdate_enddate.png" alt="Frequency of temperature (C) recorded for the past 12 months" width="250">
+  <img src="SurfsUp/Images/app_startdate.png" alt="Frequency of temperature (C) recorded for the past 12 months" width="250">  
+  <img src="SurfsUp/Images/app_startdate_enddate.png" alt="Frequency of temperature (C) recorded for the past 12 months" width="280">
 
 ## Environment
 
 * python3.7
-* numpy1.21.5
 
 ## References
 
